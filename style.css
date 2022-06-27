@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(19, 221, 215);
+}
+
+.h2{
+    color: orange;
+    text-align: center;
+}
+
+.app{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 30%;
+    background-color: rgb(255, 0, 0);
+}
+
+.item{
+    padding: 20px;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
